@@ -1,0 +1,10 @@
+﻿standard_column,original_column
+year_month,일시
+avg_temp,평균기온(°C)
+max_temp,최고기온(°C)
+min_temp,최저기온(°C)
+rainfall,일강수량(mm)
+humidity,평균 상대습도(%)
+wind,평균 풍속(m/s)
+sunshine,합계 일조시간(hr)
+snow,일 최심적설(cm)

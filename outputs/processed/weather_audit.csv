@@ -1,0 +1,3 @@
+﻿item,value,note
+weather_monthly_rows,24,월별 날씨 자료 행 수
+bus_weather_merge_rule,"year, month",정류소별 행에 날씨를 반복 부착하지 않고 월별 전체 이용량과 결합

@@ -1,0 +1,36 @@
+﻿source_file,dataset_type,encoding,rows,columns,missing_cells,duplicated_rows,status
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,cp949,731,62,15221,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\대구광역시_시내버스 정류소 위치정보_20250903.csv,location,utf-8,3981,9,117,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년10월).csv,hourly,cp949,7803,23,391,16,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년11월).csv,hourly,cp949,7803,23,736,31,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년12월).csv,hourly,cp949,7803,23,1886,81,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년1월).csv,hourly,cp949,7668,23,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년2월).csv,hourly,cp949,7779,23,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년3월).csv,hourly,cp949,7717,23,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년4월).csv,hourly,cp949,7777,23,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년5월).csv,hourly,cp949,7777,23,713,30,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년6월).csv,hourly,cp949,7777,23,598,25,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년7월).csv,hourly,cp949,7751,23,989,42,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년8월).csv,hourly,cp949,7766,23,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년9월).csv,hourly,cp949,7803,23,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2020년).csv,monthly,utf-8,37897,4,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2021년).csv,monthly,utf-8,42626,4,1,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2022년).csv,monthly,utf-8,43426,4,1,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2023년).csv,monthly,utf-8,44806,4,1,9,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2024년).csv,monthly,utf-8,48787,4,1,52,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2025년).csv,monthly,utf-8,49340,5,0,50,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2026-01~04).csv,monthly,utf-8,15190,5,0,16,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-01~2024-01).csv,hourly,utf-8,6892,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-02~2024-02).csv,hourly,utf-8,6907,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-03~2024-03).csv,hourly,utf-8,6969,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-04~2024-04).csv,hourly,utf-8,6995,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-05~2024-05).csv,hourly,utf-8,7025,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-06~2024-06).csv,hourly,utf-8,6976,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-07~2024-07).csv,hourly,utf-8,7059,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-08~2024-08).csv,hourly,utf-8,7046,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-09~2024-09).csv,hourly,utf-8,7051,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-10~2024-10).csv,hourly,utf-8,7068,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-11~2024-11).csv,hourly,utf-8,7050,24,0,0,loaded
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-12~2024-12).csv,hourly,utf-8,7018,24,0,0,loaded
+processed/monthly_summary.csv,processed,utf-8-sig,276474,17,292227,0,created
+processed/hourly_summary.csv,processed,utf-8-sig,1781839,15,340936,0,created

@@ -1,0 +1,147 @@
+﻿source_file,dataset_type,standard_column,original_column
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,date,일시
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_date,일시
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_avg_temp,평균기온(°C)
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_max_temp,최고기온(°C)
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_min_temp,최저기온(°C)
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_rainfall,일강수량(mm)
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_humidity,평균 상대습도(%)
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_wind,평균 풍속(m/s)
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_sunshine,합계 일조시간(hr)
+C:\Users\KDT34\Desktop\bus_project\data\raw\OBS_ASOS_DD_20260615140736.csv,weather,weather_snow,일 최심적설(cm)
+C:\Users\KDT34\Desktop\bus_project\data\raw\대구광역시_시내버스 정류소 위치정보_20250903.csv,location,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\대구광역시_시내버스 정류소 위치정보_20250903.csv,location,district,구군
+C:\Users\KDT34\Desktop\bus_project\data\raw\대구광역시_시내버스 정류소 위치정보_20250903.csv,location,latitude,위도
+C:\Users\KDT34\Desktop\bus_project\data\raw\대구광역시_시내버스 정류소 위치정보_20250903.csv,location,longitude,경도
+C:\Users\KDT34\Desktop\bus_project\data\raw\대구광역시_시내버스 정류소 위치정보_20250903.csv,location,route_count,경유노선수
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년10월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년10월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년10월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년10월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년11월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년11월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년11월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년11월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년12월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년12월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년12월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년12월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년1월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년1월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년1월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년1월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년2월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년2월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년2월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년2월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년3월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년3월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년3월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년3월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년4월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년4월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년4월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년4월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년5월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년5월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년5월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년5월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년6월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년6월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년6월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년6월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년7월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년7월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년7월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년7월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년8월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년8월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년8월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년8월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년9월).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년9월).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년9월).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 시간대별 승하차인원(2025년9월).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2020년).csv,monthly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2020년).csv,monthly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2020년).csv,monthly,boardings,승차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2020년).csv,monthly,alightings,하차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2020년).csv,monthly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2021년).csv,monthly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2021년).csv,monthly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2021년).csv,monthly,boardings,승차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2021년).csv,monthly,alightings,하차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2021년).csv,monthly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2022년).csv,monthly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2022년).csv,monthly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2022년).csv,monthly,boardings,승차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2022년).csv,monthly,alightings,하차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2022년).csv,monthly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2023년).csv,monthly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2023년).csv,monthly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2023년).csv,monthly,boardings,승차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2023년).csv,monthly,alightings,하차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2023년).csv,monthly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2024년).csv,monthly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2024년).csv,monthly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2024년).csv,monthly,boardings,승차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2024년).csv,monthly,alightings,하차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2024년).csv,monthly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2025년).csv,monthly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2025년).csv,monthly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2025년).csv,monthly,boardings,승차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2025년).csv,monthly,alightings,하차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2025년).csv,monthly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2026-01~04).csv,monthly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2026-01~04).csv,monthly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2026-01~04).csv,monthly,boardings,승차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2026-01~04).csv,monthly,alightings,하차
+C:\Users\KDT34\Desktop\bus_project\data\raw\시내버스 정류소별 월별 이용자수(2026-01~04).csv,monthly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-01~2024-01).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-01~2024-01).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-01~2024-01).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-01~2024-01).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-02~2024-02).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-02~2024-02).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-02~2024-02).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-02~2024-02).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-03~2024-03).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-03~2024-03).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-03~2024-03).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-03~2024-03).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-04~2024-04).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-04~2024-04).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-04~2024-04).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-04~2024-04).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-05~2024-05).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-05~2024-05).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-05~2024-05).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-05~2024-05).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-06~2024-06).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-06~2024-06).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-06~2024-06).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-06~2024-06).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-07~2024-07).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-07~2024-07).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-07~2024-07).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-07~2024-07).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-08~2024-08).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-08~2024-08).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-08~2024-08).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-08~2024-08).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-09~2024-09).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-09~2024-09).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-09~2024-09).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-09~2024-09).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-10~2024-10).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-10~2024-10).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-10~2024-10).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-10~2024-10).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-11~2024-11).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-11~2024-11).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-11~2024-11).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-11~2024-11).csv,hourly,weather_date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-12~2024-12).csv,hourly,stop_id,정류소ID
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-12~2024-12).csv,hourly,stop_name,정류소명
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-12~2024-12).csv,hourly,date,년월
+C:\Users\KDT34\Desktop\bus_project\data\raw\정류소별시간대별승하차인원조회(2024-12~2024-12).csv,hourly,weather_date,년월
